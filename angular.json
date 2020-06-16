@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ng-reddit"
+    }
+  },
+  "defaultProject": "ng-reddit",
+  "cli": {
+    "analytics": "ed9f0df9-a9ce-4ea1-9cbb-20f2e422fc5c"
+  }
 }
